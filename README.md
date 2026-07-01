@@ -1,5 +1,6 @@
 # Important note
 Soo i got a new laptop so this is gonna be fully abandoned, for newcomers don't use tahoe it isn't worth it just use sequoia
+but hey! if this works and you update parts of it (WHICH YOU ABSOLUTELY SHOULD!!!!!!) feel free to fork this to help other people.
 
 # Dell-Latitude-7490-EFI-Hackintosh-Sequoia
 Efi partition for macos sequoia on a latitude 7490
